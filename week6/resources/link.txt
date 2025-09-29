@@ -1,0 +1,5 @@
+lucimad.com
+
+1. login in Lucimad
+2. go to ai branch
+3. visit week6 page
