@@ -1,0 +1,1 @@
+visit anderw ng series about Regularization(L1, L2), Dropout and Hyperparameter Tuning and validation if you neaded.
